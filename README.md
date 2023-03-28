@@ -2,6 +2,8 @@
 
 Welcome to the GitHub repository for my Bachelor's thesis project - a personal climate control system for plants in a personal greenhouse. The project aims to utilize the latest technologies in cloud computing and IoT to create a system that accurately monitors and controls the growing conditions of plants, making it easier for people to grow and care for their plants. The project received a grade of 9.5/10! 🎓
 
+In the file **TFG-Sofia_Xiaofan_Fernandez_Marin.pdf** you will find the dissertation and in the **TFG-bachelors_thesis_presentation.pdf** you will find the projecct presentation. The folders PC and Cloud, contain the code that are supoused to be in the local machine and in Azure. The zip contains videos taken during the process of creating the project.
+
 ## Motivation
 The project is driven by a passion for plants and gardening and a desire to find a solution to struggles with keeping plants alive. The goal is to improve the success rate of gardening by accurately monitoring and controlling growing conditions, making it easier for people to grow and care for their plants.
 
